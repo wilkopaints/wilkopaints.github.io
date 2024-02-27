@@ -1,0 +1,44 @@
+# site settings
+title: Wilko Paints
+subtitle: "- Miniature Painting"
+email: 
+description: My online miniature painting portfolio
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address:
+city:
+state: 
+zip_code: 
+country: United Kingdom
+phone: 
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 50
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: 
+  GitLab:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/wilkopaints/
+  LinkedIn: 
+  Twitter: https://twitter.com/wilko_paints
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
