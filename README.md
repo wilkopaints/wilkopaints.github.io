@@ -2,6 +2,8 @@
 
 A website for my miniature painting
 
+[![pages-build-deployment](https://github.com/wilkopaints/wilkopaints.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/wilkopaints/wilkopaints.github.io/actions/workflows/pages/pages-build-deployment)
+
 ## Banner Image
 
 [Different Slant on Orion](https://www.flickr.com/photos/7634329@N07/495636660/) by [Steve Black](https://www.flickr.com/photos/steveblackimages/) under [CC BY-SA 2.0 Deed](https://creativecommons.org/licenses/by-sa/2.0/)
