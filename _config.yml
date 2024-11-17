@@ -22,14 +22,11 @@ tiles-count: 50
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: 
-  GitLab:
-  Google-Plus: 
   Instagram: https://www.instagram.com/wilkopaints/
-  LinkedIn: 
-  Twitter: https://twitter.com/wilko_paints
-  Facebook:
-  Slack:
+  Bluesky: https://bsky.app/profile/wilkopaints.art
+  Facebook: https://www.facebook.com/wilkopaints
+  Threads: https://www.threads.net/@wilkopaints
+  Tiktok: https://www.tiktok.com/@wilkopaints
 
 # build settings
 markdown: kramdown
