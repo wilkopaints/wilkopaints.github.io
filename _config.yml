@@ -3,8 +3,8 @@ title: Wilko Paints
 subtitle: "- Miniature Painting"
 email: 
 description: My online miniature painting portfolio
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wilkopaints.art" # the base hostname & protocol for your site
 author:
 street_address:
 city:
